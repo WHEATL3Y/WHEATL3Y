@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WHEATL3Y
-- 👀 I’m interested in Networking, Python, RISC V, Linux, ARM
-- 🌱 I’m currently learning JNCIS-SP, Python, General Computer Science
+- 👀 I’m interested in Networking, Python, RISC V, Linux, ARM, Rust
+- 🌱 I’m currently learning JNCIS-SP, Python, Rust, General Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jacob@jacobchristensen.me
 
