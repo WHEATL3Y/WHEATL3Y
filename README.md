@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @WHEATL3Y
-- 👀 I’m interested in Networking, Python, RISC V, Linux, ARM, Rust
-- 🌱 I’m currently learning Python, Rust, C, General Computer Science
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Jacob Christensen
+- 👀 I’m interested in Networking and Service Provider Network architechture, Low Level Programming, including playing with ARM/RISC V, Graphics programming.
+- 🌱 I’m currently learning CS @ Colorado State University, as well as Python, Rust, C, webdev (TS, JS, SvelteKit (...obviously CSS and HTML too)) in my own time.
 - 📫 How to reach me jacob@j-c.io
 
 <!---
